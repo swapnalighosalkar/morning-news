@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "news-summarizer": {
+      "type": "stdio",
+      "command": "C:\\Users\\swapn\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+      "args": ["C:\\news-mcp\\server.py"],
+      "env": {
+        "GNEWS_API_KEY": "005a1a824ab068ca991e5901c4074900"
+      }
+    }
+  }
+}
